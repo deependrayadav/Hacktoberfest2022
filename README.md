@@ -119,7 +119,7 @@ For more information on syncing forks [read this article from Github](https://he
   - It is from 1st october to 31st october 2022...
 - What is the event for?
   - For the open source community engagement
-
+-This is for 
 
 
 
